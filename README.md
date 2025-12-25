@@ -115,3 +115,4 @@ Di bagian ini, mahasiswa diharapkan untuk menyajikan dan menginterpretasikan has
 ## 6. Kesimpulan
 
 Rangkum temuan utama dari analisis Anda dalam beberapa kalimat. Apa wawasan paling penting yang Anda peroleh?
+Secara keseluruhan, analisis ini menunjukkan bahwa biaya akuisisi pelanggan memiliki pengaruh yang sangat besar dan terukur terhadap pendapatan tahunan startup. Meskipun sebaran data memperlihatkan adanya kesenjangan skala bisnis yang cukup lebar di antara para pelaku usaha, model statistik yang digunakan terbukti sangat akurat dalam menggambarkan hubungan tersebut. Temuan utama dari studi ini menegaskan bahwa investasi pada strategi akuisisi pelanggan bukan hanya sekadar biaya operasional, melainkan pendorong utama pertumbuhan finansial yang hasilnya sangat konsisten. Dengan tingkat kepastian model yang hampir sempurna, perusahaan dapat menggunakan pola ini sebagai landasan yang kuat dalam merencanakan target pendapatan di masa depan.
