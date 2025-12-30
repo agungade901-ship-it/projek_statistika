@@ -24,7 +24,7 @@ if (!exists("data_bersih")) {
 
 # Ganti dengan nama kolom numerik yang ingin Anda analisis dari dataset Anda.
 # Contoh: kolom_analisis <- "harga_rumah"
-kolom_analisis <- "nama_kolom_numerik" 
+kolom_analisis <- "Biaya_Akuisisi_Pelanggan_Juta_IDR" 
 
 # Pastikan kolom yang dipilih ada di dalam data
 if(!kolom_analisis %in% names(data_bersih)) {
