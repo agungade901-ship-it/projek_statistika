@@ -26,7 +26,7 @@ if (!exists("data_bersih")) {
 
 # Ganti dengan nama kolom numerik yang ingin Anda uji normalitasnya.
 # Ini sebaiknya kolom yang sama dengan yang Anda gunakan di skrip sebelumnya.
-kolom_uji <- "nama_kolom_numerik"
+kolom_uji <- "Biaya_Akuisisi_Pelanggan_Juta_IDR"
 
 # Pastikan kolom yang dipilih ada di dalam data
 if(!kolom_uji %in% names(data_bersih)) {
